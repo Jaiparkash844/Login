@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(4, 7, 51);
+}
+
+#logincontainer {
+    background-color: rgb(73, 133, 224);
+}
+
+#button {
+    background-color: black;
+}
+
+a {
+    color: white;
+
+}
+
+label {
+    color: black;
+}
